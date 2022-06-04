@@ -1293,6 +1293,17 @@ a {
     padding-bottom: 7.5rem;
     padding-top: 7.5rem;
   }
+  .map{
+    width: 70%;
+    height: 400px;
+    margin: 0 auto;
+    border-color: red;
+    border: 6px;
+    border-style: solid;
+
+
+  }
+  
   
   /*------------------------------------------------------------
   |
